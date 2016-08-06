@@ -1,0 +1,24 @@
+_repo: The-Lullaby-with-Original-Engravings_10931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bolles, John R. (John Rogers)
+    birthdate: 1810
+    deathdate: 1895
+    gutenberg_agent_id: '3683'
+    url: http://www.gutenberg.org/2009/agents/3683
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: The Lullaby, with Original Engravings
+url: http://www.gutenberg.org/ebooks/10931
